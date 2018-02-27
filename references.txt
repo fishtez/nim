@@ -1,0 +1,10 @@
+nimsum http://www.math.ucla.edu/~radko/circles/lib/data/Handout-141-156.pdf
+
+converting to binary:
+	https://www.quora.com/How-do-I-convert-integers-to-binary-in-Python-3
+	https://stackoverflow.com/questions/10411085/converting-integer-to-binary-in-python
+	
+iterating strings:
+	https://stackoverflow.com/questions/538346/iterating-over-a-string
+	http://www.diveintopython3.net/comprehensions.html
+	https://stackoverflow.com/questions/4967580/how-to-get-the-size-of-a-string-in-python
