@@ -8,3 +8,6 @@ iterating strings:
 	https://stackoverflow.com/questions/538346/iterating-over-a-string
 	http://www.diveintopython3.net/comprehensions.html
 	https://stackoverflow.com/questions/4967580/how-to-get-the-size-of-a-string-in-python
+	
+literal string interpolation:
+	https://www.python.org/dev/peps/pep-0498/#abstract
