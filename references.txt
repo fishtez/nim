@@ -1,3 +1,5 @@
+# reference links for nimsum.py
+
 nimsum http://www.math.ucla.edu/~radko/circles/lib/data/Handout-141-156.pdf
 
 converting to binary:
